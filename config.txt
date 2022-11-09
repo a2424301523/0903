@@ -1,0 +1,14 @@
+{
+"app_id": "wxb5a70d0dc10e35d3",
+"app_secret": "8798d10231032a48e6e06c35aa93e771",
+"template_id": "vk0LcYqbVas3mwd2lgDP_Jr1j7wEcBPsg4leS59hqyQ",
+"user": ["oFW7X5h4VpJLoU1xdfImuTfRkPyQ "],
+"weather_key": "114c5ea278584d17b1daa286a36ae7e1",
+"tian_api": " 562b8f1a32fca3dcb8dc2a9b5410a363",
+数据)
+"region": "新乡",
+"birthday1": {"name": "小宝贝候嘉惠", "birthday": "2002-10-27"},
+"love_date": "2022-01-18",
+"note_ch": "",
+"note_en": ""
+}
